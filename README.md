@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-simple-home-utility-auditing-program
+<br>
+Create a Visual Basic Utility program (Home Auditing)Design, implement, test, and debug a Visual Basic® program to create a simple home utility auditing program.The user should be able to do the following:Enter the cost per kilowatt-hour.Select a home appliance from a list of home appliances.&lt;&lt;&lt;&lt;&lt;&lt;Enter the power needed in kilowatts (kW) for the selected appliance.Enter the number of hours used per day for the selected appliance.The program should do the following:Validate that the data entered has the correct format and is within a reasonable range.Calculate and display the cost for operating a home appliance as soon as the data is entered
